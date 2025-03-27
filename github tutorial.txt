@@ -1,0 +1,33 @@
+usar git
+
+- git init (inicia o git)
+
+git status (Verifica status o que esta adiconao o que nao esta etc)
+
+git add "nome do arquivo" ou git add . (adicionar todos)
+
+
+  git config --global user.email "you@example.com"	(entra no git hub)
+  git config --global user.name "Your Name"
+
+
+git commit -m "" (criando versao do codigo, pode ser a primeira ou outras)
+
+cria o repositoria do github
+
+
+git remote add origin "https://github.com/jhonyjota/ProjetoPW1" (localizada e seta o projeto no git)
+
+git push --set-upstream origin master (configurar a bransh master e sobre com o push)
+
+ou
+
+
+git push --set(qaundo ja colocou e mail e so atualizaer o pojeto)
+
+
+
+
+
+
+
